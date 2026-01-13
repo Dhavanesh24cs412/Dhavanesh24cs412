@@ -1,18 +1,24 @@
 ## Hi there 👋 It's me Dhavanesh Venkatesan
 
-**Full Stack Developer (MERN) | Engineering Student @ St. Joseph's College of Engineering, Chennai**  
+**Full Stack Developer (MERN) | Computer Science Engineering Student @ St. Joseph's College of Engineering, Chennai**  
 *Building scalable web systems with a strong foundation in engineering, problem-solving, and emerging AI integrations.*
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img 
+  align="right" 
+  width="370" 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  alt="Serious programmer coding"
+/>
+
 
 ---
 
 ### About Me
-- 🔭 Here’s my **[Portfolio](https://first-portfolio-dhavanesh-vs-projects.vercel.app/)**
-- 🌱 Currently focused on **self-learning Full Stack Development (MERN)** through hands-on projects and structured courses
-- 🚀 Aspiring to grow into **Full Stack roles at top product-based companies**
-- 🧠 Key interests: **Web Development, AI-powered systems, and Core Engineering Concepts**
-- ⚡ Fun fact: I love breaking down complex systems and rebuilding them better
+- Here’s my **[Portfolio](https://first-portfolio-dhavanesh-vs-projects.vercel.app/)**
+- Currently focused on **self-learning Full Stack Development (MERN)** through hands-on projects and structured courses
+- Aspiring to grow into **Full Stack roles at top product-based companies**
+- Key interests: **Web Development, AI-powered systems, and Core Engineering Concepts**
+- ⚡ Fun fact: I code without caffeine.
 
 ---
 
@@ -40,18 +46,14 @@
 ---
 
 ### Tools & Platforms
-<p>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman-api.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
+<p align="left">
+  <img height="50" src="https://img.icons8.com/3d-fluency/94/github-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/git.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img height="50" src="https://img.icons8.com/fluency/48/github-copilot.png" alt="github-copilot"/>
+  <img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
+  <img height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
 </p>
-
----
-
-### GitHub Stats
-![Dhavanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhavanesh24cs412&theme=dark&show_icons=true&hide=issues,contribs)
 
 ---
 
