@@ -51,6 +51,7 @@
   <img height="50" src="https://img.icons8.com/color/48/git.png"/>
   <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
   <img height="50" src="https://img.icons8.com/fluency/48/github-copilot.png" alt="github-copilot"/>
+  <img height="50" src="https://img.icons8.com/liquid-glass/48/cursor-ai.png" alt="cursor-ai"/>
   <img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
   <img height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
 </p>
